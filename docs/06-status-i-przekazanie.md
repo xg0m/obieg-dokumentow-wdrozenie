@@ -30,7 +30,7 @@ Dane są fikcyjne.
 
 | ID | Ryzyko | Prawdopodobieństwo | Wpływ | Działanie | Właściciel |
 |---|---|---|---|---|---|
-| R-1 | Opóźnione dostarczenie eksportu z systemu kadrowego | Średnie | Wysoki | Uzgodnić termin na piktogramie harmonogramu, przygotować zestaw danych testowych | Kierownik projektu |
+| R-1 | Opóźnione dostarczenie eksportu z systemu kadrowego | Średnie | Wysoki | Uzgodnić termin w harmonogramie projektu, przygotować zestaw danych testowych | Kierownik projektu |
 | R-2 | Niska jakość danych źródłowych | Wysokie | Średni | Walidacja przed importem i raport błędów dla klienta | Konsultant wdrożeniowy |
 | R-3 | Brak dostępności użytkowników w czasie UAT | Średnie | Wysoki | Zarezerwować terminy z wyprzedzeniem, wskazać zastępców | Właściciel procesu |
 | R-4 | Zmiany wymagań po akceptacji koncepcji | Średnie | Średni | Zmiany tylko przez formalny wniosek zmiany z oceną wpływu | Kierownik projektu |
